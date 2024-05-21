@@ -10,7 +10,7 @@
 #### 解决方案
 勾选已了解风险，点击继续安装
 
-<img src="../截屏/vivo/未经安全审核.png" alt="安全审核" style="zoom:35%;"  align="left"/>
+<img src="../截屏/vivo/未经安全审核.png" alt="安全审核" style="width:50%;"/>
 
 
 ### 2. 未经vivo 人工亲测
@@ -20,4 +20,4 @@
 #### 解决方案
 忽略提醒，点击继续安装
 
-<img src="../截屏/vivo/未经人工检测提醒.png" alt="人工检测" style="zoom:35%;"  align="left"/>
+<img src="../截屏/vivo/未经人工检测提醒.png" alt="人工检测" style="width:50%;"/>

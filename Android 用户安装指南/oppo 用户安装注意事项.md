@@ -10,7 +10,7 @@
 #### 解决方案
 勾选已知悉，点击继续安装
 
-<img src="../截屏/oppo/安全守护提示.jpg" alt="安全守护提醒" style="zoom:35%;"  align="left"/>
+<img src="../截屏/oppo/安全守护提示.jpg" alt="安全守护提醒" style="width:50%;"/>
 
 
 ### 2. 安全提示
@@ -20,7 +20,7 @@
 #### 解决方案
 忽略提醒，点击 无视风险安装
 
-<img src="../截屏/oppo/未经安全审核风险.jpg" alt="安全提示" style="zoom:35%;"  align="left"/>
+<img src="../截屏/oppo/未经安全审核风险.jpg" alt="安全提示" style="width:50%;"/>
 
 ### 3. 未备案风险
 #### 问题
@@ -29,4 +29,4 @@
 #### 解决方案
 忽略提醒，点击 无视风险安装
 
-<img src="../截屏/oppo/未备案风险.jpg" alt="安全提示" style="zoom:35%;"  align="left"/>
+<img src="../截屏/oppo/未备案风险.jpg" alt="安全提示" style="width:50%;"/>
